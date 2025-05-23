@@ -2,7 +2,7 @@
 
 a.k.a. "Using Playwright to scrape pages that require you to fill out forms"
 
-## DataHarvest 2025, Mechelen
+## Dataharvest 2025, Mechelen
 
 Jonathan Soma, Knight Chair in Data Journalism at Columbia Journalism School
 
