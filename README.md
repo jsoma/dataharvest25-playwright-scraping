@@ -16,6 +16,8 @@ Playwright is a next-generation browser automation tool that allows you to use P
 
 ## The examples
 
+[Slides are here](slides.pdf)
+
 - [Syllabus books](00-OpenSyllabus.ipynb): selectors, pagination
 - [Texas Tow Trucks Licenses](01-Texas%20Tow%20Trucks%20Licenses.ipynb): dropdowns
 - [Iowa Appraisal Management Companies](02-Iowa%20Appraisal%20Management%20Companies.ipynb): dropdowns, 'next page' buttons
